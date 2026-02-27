@@ -1,0 +1,10 @@
+{
+    "controller_inventories": [
+        {
+            "description": "Example inventory \u2014 replace with your inventory source",
+            "kind": "",
+            "name": "inv-demo_alpha-src-dev-example",
+            "organization": "org-demo_alpha"
+        }
+    ]
+}
