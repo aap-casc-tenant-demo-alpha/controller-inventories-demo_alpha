@@ -1,0 +1,10 @@
+{
+    "controller_inventories": [
+        {
+            "name": "inv-demo_alpha-hello_world-dev",
+            "description": "Dev inventory for hello_world — tenant Alpha",
+            "organization": "org-demo_alpha",
+            "kind": ""
+        }
+    ]
+}
